@@ -1,0 +1,82 @@
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Baglanti.resources
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Form1.resources
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+E:\Programlar\C#\Şimdiki\Gaz_Sensoru\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Form1.resources
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Hakkında.resources
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Veritabanı.resources
+C:\Users\user\Desktop\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Giris.resources
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Form1.resources
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Giris.resources
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Hakkında.resources
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Veritabanı.resources
+C:\Users\Casperr\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Form1.resources
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Giris.resources
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Hakkında.resources
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Veritabanı.resources
+H:\Projeler\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Form1.resources
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Giris.resources
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Hakkında.resources
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Veritabanı.resources
+C:\Users\user\Desktop\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Giris.resources
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Hakkında.resources
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Veritabanı.resources
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.butonLedYak.resources
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe.config
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.exe
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.pdb
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.exe
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\bin\Debug\Gaz_Sensoru.pdb
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csprojResolveAssemblyReference.cache
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.butonLedYak.resources
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Giris.resources
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Hakkında.resources
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Properties.Resources.resources
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.Veritabanı.resources
+F:\13-Gaz Sensörü SQL\2-Gaz Olcum\Gaz_Sensoru C#\Gaz_Sensoru\obj\Debug\Gaz_Sensoru.csproj.GenerateResource.Cache
